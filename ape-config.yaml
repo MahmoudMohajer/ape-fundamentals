@@ -1,0 +1,9 @@
+name: Ape Fundamentals
+contract_folder: contracts 
+dependencies:
+  - name: OpenZeppelin
+    github: OpenZeppelin/openzeppelin-contracts
+    version: 4.4.2
+compile:
+  output_extra:
+     - ABI

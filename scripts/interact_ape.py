@@ -1,0 +1,1 @@
+APE_CONTRACT_ADDRESS = "0x782bcc137E81B53e4D50fF340688451278BD2575" # Replace with your contract address
